@@ -1,0 +1,22 @@
+{
+  "name": "CLTokenInputView-Swift",
+  "version": "0.1.0",
+  "summary": "A short description of CLTokenInputView-Swift.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/mike86k@gmail.com/CLTokenInputView-Swift",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "mike86k@gmail.com": "v.i.p.dimak@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/mike86k@gmail.com/CLTokenInputView-Swift.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CLTokenInputView-Swift/Classes/**/*"
+}

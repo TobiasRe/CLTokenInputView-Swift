@@ -1,0 +1,16 @@
+PODS:
+  - CLTokenInputView-Swift (0.1.0)
+
+DEPENDENCIES:
+  - CLTokenInputView-Swift (from `../`)
+
+EXTERNAL SOURCES:
+  CLTokenInputView-Swift:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CLTokenInputView-Swift: 45efead1856612b9e7a5f0d62a60edbc4964e08c
+
+PODFILE CHECKSUM: 15ea1cc745ae27d991f07823b42ff3718b37f4dd
+
+COCOAPODS: 1.2.1

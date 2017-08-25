@@ -1,0 +1,6 @@
+framework module CLTokenInputView_Swift {
+  umbrella header "CLTokenInputView-Swift-umbrella.h"
+
+  export *
+  module * { export * }
+}
