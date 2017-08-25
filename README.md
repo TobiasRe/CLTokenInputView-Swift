@@ -22,7 +22,7 @@ pod "CLTokenInputView-Swift"
 
 ## Author
 
-mike86k@gmail.com, v.i.p.dimak@gmail.com
+v.i.p.dimak@gmail.com
 
 ## License
 
