@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'CLTokenInputView-Swift'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = 'Input view like Mail.app.'
 
   s.description      = 'CLTokenInputView-Swift is an almost pixel perfect replica of the input portion iOS\'s native contacts picker, used in Mail.app and Messages.app when composing a new message. Originaly developed at Cluster Labs, Inc.. and then ported to swift by @rlaferla. Bugfixed, updated and added pod by @v.i.p.dimak'
