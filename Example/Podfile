@@ -1,0 +1,6 @@
+use_frameworks!
+target 'CLTokenInputView-Swift_Tests' do
+  pod 'CLTokenInputView-Swift', :path => '../'
+  
+  
+end
