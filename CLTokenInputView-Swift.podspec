@@ -8,34 +8,20 @@
 
 Pod::Spec.new do |s|
   s.name             = 'CLTokenInputView-Swift'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of CLTokenInputView-Swift.'
+  s.version          = '0.1.1'
+  s.summary          = 'Input view like Mail.app.'
 
-# This description is used to generate tags and improve search results.
-#   * Think: What does it do? Why did you write it? What is the focus?
-#   * Try to keep it short, snappy and to the point.
-#   * Write the description between the DESC delimiters below.
-#   * Finally, don't worry about the indent, CocoaPods strips it!
-
-  s.description      = <<-DESC
-TODO: Add long description of the pod here.
-                       DESC
+  s.description      = 'CLTokenInputView-Swift is an almost pixel perfect replica of the input portion iOS\'s native contacts picker, used in Mail.app and Messages.app when composing a new message. Originaly developed at Cluster Labs, Inc.. and then ported to swift by @rlaferla. Bugfixed, updated and added pod by @v.i.p.dimak'
 
   s.homepage         = 'https://github.com/dmitrykurochka/CLTokenInputView-Swift'
-  # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { ‚v.i.p.dimak‘ => 'v.i.p.dimak@gmail.com' }
+  s.author           = { 'v.i.p.dimak@gmail.com' => 'v.i.p.dimak@gmail.com' }
   s.source           = { :git => 'https://github.com/dmitrykurochka/CLTokenInputView-Swift.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'CLTokenInputView-Swift/Classes/**/*'
   
-  # s.resource_bundles = {
-  #   'CLTokenInputView-Swift' => ['CLTokenInputView-Swift/Assets/*.png']
-  # }
-
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit'
 end
